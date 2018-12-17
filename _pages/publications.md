@@ -17,13 +17,13 @@ Amanda Gentzel, Dan Garant, and David Jensen
 *Neural Information Processing Systems (NeurIPS) Causality workshop, 2018*
 
 **Classifier-Adjusted Density Estimation for Anomaly Detection and One-Class Classification**  
-Lisa Friedland, Amanda Gentzel, and David Jensen
+Lisa Friedland, Amanda Gentzel, and David Jensen  
 *SIAM Data Mining Conference (SDM) 2014*
 
 **Detecting Insider Threats in a Real Corporate Database of Computer Usage Activities**  
-Ted Senator, Henry Goldberg, et al.
+Ted Senator, Henry Goldberg, et al.  
 *Conference on Knowledge Discovery and Data Mining (KDD) 2013*
 
 **Evaluation of Automatic Classroom Capture for Computer Science Education**  
-Paul Dickson, David Arbour, Rick Adrion, and Amanda Gentzel
+Paul Dickson, David Arbour, Rick Adrion, and Amanda Gentzel  
 *Conference on Innovation and Technology in Computer Science Education (ITiCSE) 2010*
