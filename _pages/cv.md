@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-
-
+[CV](amanda-gentzel-CV.pdf)
