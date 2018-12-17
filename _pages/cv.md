@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-###[CV](amanda-gentzel-CV.pdf)
+[###CV](amanda-gentzel-CV.pdf)
