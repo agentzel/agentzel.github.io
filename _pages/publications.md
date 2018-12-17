@@ -12,7 +12,9 @@ author_profile: true
 {% endfor %}
 -->
 
-The Case for Evaluating Causal Models Using Interventional Measures and Empirical Data
+**The Case for Evaluating Causal Models Using Interventional Measures and Empirical Data**
+Amanda Gentzel, Dan Garant, and David Jensen
+*NeurIPS Causality workshop, 2018*
 
 Classifier-Adjusted Density Estimation for Anomaly Detection and One-Class Classification
 
