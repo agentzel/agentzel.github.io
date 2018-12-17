@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](amanda-gentzel-CV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-[CV](amanda-gentzel-CV.pdf)
+
