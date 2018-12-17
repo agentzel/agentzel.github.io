@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](amanda-gentzel-CV.pdf)"
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
