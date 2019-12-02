@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 -->
 <!-- | [video](neurips-2019-video.m4v) -->
-**The Case for Evaluating Causal Models Using Interventional Measures and Empirical Data** ([pdf](NeurIPS-eval.pdf) | [supplementary material](NeurIPS-eval-supplements.pdf) | [poster](Evaluation poster NeurIPS.pdf))  
+**The Case for Evaluating Causal Models Using Interventional Measures and Empirical Data** ([pdf](NeurIPS-eval.pdf) | [supplementary material](NeurIPS-eval-supplements.pdf) | [poster](Evaluation poster NeurIPS.pdf) | [video](Neurips video.m4v)  
 Amanda Gentzel, Dan Garant, and David Jensen  
 *Neural Information Processing Systems (NeurIPS), 2019*
 
