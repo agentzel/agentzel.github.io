@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a member of the [Knowledge Dicovery Lab](https://kdl.cs.umass.edu/index.html) at the University of Massachusetts Amherst, working with [David Jensen](https://people.cs.umass.edu/~jensen/).  My research interests include causal inference, evaluation methods, time series analysis, and anomaly detection.  I enjoy working in applied domains, and have done work in insider threat detection and jet engine maintenance forecasting.  My current work focuses on techniques for comparing and evaluting algorithms for causal discovery.
+I am a member of the [Knowledge Dicovery Lab](https://kdl.cs.umass.edu/index.html) at the University of Massachusetts Amherst, working with [David Jensen](https://people.cs.umass.edu/~jensen/).  My current research focuses on evaluation methods for causal modeling algorithms.  I also work on applying causal learning techniques to better understand complex systems.  I enjoy working in applied domains, and have done work in insider threat detection, jet engine maintenance forecasting, and explaining RL agent performance in Starcraft 2.
